@@ -18,14 +18,10 @@ Analysis of COVID-19 cases, deaths, and vaccination progress comparing Kenya, In
 
 ## How to Run
 1. Clone this repository:
-   ```bash
    git clone https://github.com/waregamo/COVID-19-Global-Data-Tracker-Project.git
-   ```
 2. Install requirements:
-   ```bash
    pip install pandas matplotlib seaborn plotly
-   ```
-3. Open and run `covid_analysis.ipynb` in Jupyter Notebook
+3. Open and run `covid_19 data analysis.ipynb` in Jupyter Notebook
 
 ## Key Insights
 1. USA had fastest vaccination rollout (65% fully vaccinated)
