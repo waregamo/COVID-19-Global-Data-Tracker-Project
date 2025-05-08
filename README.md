@@ -1,6 +1,4 @@
-# COVID-19 Data Analysis: Kenya, India & USA
-
-![COVID-19 Dashboard Example](https://via.placeholder.com/800x400?text=Sample+Visualization)
+# COVID-19 Global Data Tracker Project: Kenya, India & USA
 
 ## Project Description
 Analysis of COVID-19 cases, deaths, and vaccination progress comparing Kenya, India, and the United States using Python data tools.
@@ -21,7 +19,7 @@ Analysis of COVID-19 cases, deaths, and vaccination progress comparing Kenya, In
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/waregamo/covid-19-data-analysis.git
+   git clone https://github.com/waregamo/COVID-19-Global-Data-Tracker-Project.git
    ```
 2. Install requirements:
    ```bash
@@ -35,4 +33,4 @@ Analysis of COVID-19 cases, deaths, and vaccination progress comparing Kenya, In
 3. Kenya had lower cases but higher death rate than others
 
 ## Data Source
-[Our World in Data COVID-19 Dataset](https://ourworldindata.org/covid-cases)
+Our World in Data COVID-19 Dataset (CSV & API)
